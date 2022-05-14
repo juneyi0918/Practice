@@ -1,0 +1,8 @@
+A=int(input())
+B=int(input())
+C=int(input())
+D=int(input())
+E=int(input())
+cheap_burger=min(A,B,C)
+cheap_drink=min(D,E)
+print(cheap_burger+cheap_drink-50)
