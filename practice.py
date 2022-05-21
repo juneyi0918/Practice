@@ -21,3 +21,12 @@ print('{0}:{1}:{2}'.format(a,b,c))
 print(a,b,c,sep=':')
 
 ######################################################
+
+### round ###
+
+a=1.23
+b=1.234
+c=1.2346
+print(round(a,1)) # decimal 1th
+print(round(b,2)) # decimal 2nd
+print(round(c,3)) # decimal 3rd
