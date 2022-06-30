@@ -30,3 +30,11 @@ c=1.2346
 print(round(a,1)) # decimal 1th
 print(round(b,2)) # decimal 2nd
 print(round(c,3)) # decimal 3rd
+
+
+## How to get LIST with Int  as input ##
+
+lst=list(map(int,input().strip().split()))
+
+##############################################
+
