@@ -38,3 +38,9 @@ lst=list(map(int,input().strip().split()))
 
 ##############################################
 
+## Make code Faster with Bigger Num ##
+
+import sys
+a= int(sys.stdin.readline())
+
+#################################################
